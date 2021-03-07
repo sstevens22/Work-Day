@@ -31,6 +31,6 @@ function colorCode(){
     } else if (now >= 8 && now < 9) {
         $("#text8").addClass("present");
     } else if (now < 8) {
-        $("text8").addClass("future");
+        $("#text8").addClass("future");
     }
 }
