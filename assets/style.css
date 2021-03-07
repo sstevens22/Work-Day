@@ -10,6 +10,13 @@ p.lead{
   font-size: 30px;
 }
 
+p#currentDay.lead{
+  font-weight: bold;
+}
+p#currentTime.lead{
+  font-weight: bold;
+}
+
 textarea{
   background: transparent;
   border: none;
